@@ -9,4 +9,7 @@ In the end the experience should raise awareness for dementia and help understan
 
 This project is part of the Aalborg University's PBL approach in the study programm Medialogy and is developed in collaboration with the [Danish Research Center of Dementia](http://uk.videnscenterfordemens.dk).
 
-[latest expDementia webgl demo](https://shansb-dev.github.io/expDementia/Demo_v3/index.html)
+# Links
+
+[Latest expDementia webgl demo](https://shansb-dev.github.io/expDementia/Demo_v3/index.html)
+[User Study](https://shansb-dev.github.io/expDementia/)
