@@ -1,6 +1,6 @@
 ## What is expDementia?
 
-ExpDementia is a educational experience which aims to teach teenagers the effects of dementia.
+ExpDementia is a educational experience which aims to teach teenagers the symptoms of dementia.
 
 The program itself is a 3D, first-person, point-and-click interactive scenery. The user finds himself inside the body of a person who perceives the world similarly as a dementia patient would.
 The focus will be on replicating the effects of memory and coordination loss as well as reasoning and judgement deficiencies.
@@ -12,4 +12,5 @@ This project is part of the Aalborg University's PBL approach in the study progr
 #### Links
 
 - [Latest expDementia webgl demo](https://shansb-dev.github.io/expDementia/Demo_v3/index.html)
-- [User Study](https://shansb-dev.github.io/expDementia/)
+- User Study: [ENG](https://shansb-dev.github.io/expDementia/)
+- User Study: [DAN](https://shansb-dev.github.io/expDementia/)
