@@ -316,3 +316,6 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
+
+section.page-header { background-image: url("/assets/images/banner-left.svg"), url("/assets/images/banner-right.svg"), linear-gradient(120deg, #155799, #159957); background-color: #159957; background-repeat: no-repeat, no-repeat; background-position: center left, center right; background-size: 30% 50%, 30% 50%, 100% 100%; }
+@media screen and (max-device-width: 750px) { section.page-header { background-position: top left, top right; background-size: 20% 50%, 20% 50%, 100% 100%; } }
