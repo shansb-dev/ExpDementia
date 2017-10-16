@@ -19,5 +19,5 @@ This project is part of the Aalborg University's PBL approach in the study progr
 #### Links
 
 - [Latest expDementia webgl demo](https://shansb-dev.github.io/expDementia/Demo/index.html)
-- User Study: [ENG](https://goo.gl/forms/adq7V6x28cxmsgsS2)|[DAN](https://goo.gl/forms/jm0hQMKm0c00hoEs1)
-- Feedback: [ENG](https://goo.gl/forms/65tnZauV9ZROQv8D3)|[DAN](https://goo.gl/forms/65tnZauV9ZROQv8D3)
+- User Study: [ENG](https://goo.gl/forms/adq7V6x28cxmsgsS2), [DAN](https://goo.gl/forms/jm0hQMKm0c00hoEs1)
+- Feedback: [ENG](https://goo.gl/forms/65tnZauV9ZROQv8D3)<!---, [DAN](https://goo.gl/forms/65tnZauV9ZROQv8D3) -->
