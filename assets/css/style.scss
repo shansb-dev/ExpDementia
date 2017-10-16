@@ -7,8 +7,8 @@
 $custom-break-small: 750px;
 
 section.page-header {
-    // background-image: url("banner.svg"), linear-gradient(120deg, #155799, #159957) !important;
-    background-image: url("/assets/images/banner-left.svg"), url("/assets/images/banner-right.svg"), linear-gradient(120deg, #155799, #159957);
+    // background-image: url("/assets/images/banner-left.svg"), url("/assets/images/banner-right.svg"), linear-gradient(120deg, #155799, #159957);
+    background-image: url("/expDementia/assets/images/banner-left.svg"), url("/expDementia/assets/images/banner-right.svg"), linear-gradient(120deg, #155799, #159957);
     background-color: #159957;
     background-repeat: no-repeat, no-repeat;
     background-position: center left, center right;
