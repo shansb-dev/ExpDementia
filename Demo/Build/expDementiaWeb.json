@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "expDementiaWeb.data.unityweb",
+"asmCodeUrl": "expDementiaWeb.asm.code.unityweb",
+"asmMemoryUrl": "expDementiaWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "expDementiaWeb.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
