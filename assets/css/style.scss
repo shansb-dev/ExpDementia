@@ -6,16 +6,60 @@
 // manual header image breaking points 
 $custom-break-small: 750px;
 
-section.page-header {
+.page-header {
+    // Version 1: Green-Blue Style
     // background-image: url("/assets/images/banner-left.svg"), url("/assets/images/banner-right.svg"), linear-gradient(120deg, #155799, #159957);
-    background-image: url("/expDementia/assets/images/banner-left.svg"), url("/expDementia/assets/images/banner-right.svg"), linear-gradient(120deg, #155799, #159957);
-    background-color: #159957;
+    // background-image: url("/expDementia/assets/images/banner-left.svg"), url("/expDementia/assets/images/banner-right.svg"), linear-gradient(120deg, #155799, #159957);
+    // background-color: #159957;
+    // background-repeat: no-repeat, no-repeat;
+    // background-position: center left, center right;
+    // background-size: 30% 50%, 30% 50%, 100% 100%;
+
+    // @media screen and (max-device-width: $custom-break-small) {
+    //     background-position: top left, top right;
+    //     background-size: 20% 50%, 20% 50%, 100% 100%;
+    // }
+
+    // Version 2: Black-White Style
+    // background-image: url("/expDementia/assets/images/head-right.svg"), url("/expDementia/assets/images/titlefont.svg");
+    // background-image: url("/assets/images/head-left.svg"), url("/assets/images/head-right.svg"), url("/assets/images/titlefont.svg");
+    // background-color: #000000;
+    // background-repeat: no-repeat, no-repeat, no-repeat;
+    // background-position: center left, center right, top center;
+    // background-size: 20% 70%, 20% 70%, 30% 100%;
+
+    // Versio 3: Title image inside html
+    background-image: url("/assets/images/head-left.svg"), url("/assets/images/head-right.svg");
+    background-color: #000000;
     background-repeat: no-repeat, no-repeat;
     background-position: center left, center right;
-    background-size: 30% 50%, 30% 50%, 100% 100%;
+    background-size: 20% 70%, 20% 70%;
 
     @media screen and (max-device-width: $custom-break-small) {
         background-position: top left, top right;
-        background-size: 20% 50%, 20% 50%, 100% 100%;
+        background-size: 20% 50%, 20% 50%;
+    }
+}
+
+@font-face {
+    font-family: 'Burn';
+    src: url('Burn.ttf');
+}
+
+.burn {
+    font-family: 'Burn', 'Georgia', serif;
+    font-size: 6rem;
+}
+
+.main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #000000;
+}
+
+.titleimg {
+    display: inline-block;
+    width: 25em;
+
+    @media screen and (max-device-width: $custom-break-small) {
+        width: 15em;
     }
 }
