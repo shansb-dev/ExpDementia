@@ -29,7 +29,8 @@ $custom-break-small: 750px;
     // background-size: 20% 70%, 20% 70%, 30% 100%;
 
     // Versio 3: Title image inside html
-    background-image: url("/assets/images/head-left.svg"), url("/assets/images/head-right.svg");
+    // background-image: url("/assets/images/head-left.svg"), url("/assets/images/head-right.svg");
+    background-image: url("/expDementia/assets/images/head-left.svg"), url("/expDementia/assets/images/head-right.svg");
     background-color: #000000;
     background-repeat: no-repeat, no-repeat;
     background-position: center left, center right;
