@@ -2,7 +2,7 @@
 
 _The 5 A`s_ is an educational experience which aims to teach teenagers about dementia in an engaging way.
 
-The program itself is a 3D, first-person, point-and-click interactive scenery. The user finds himself inside the body of a teenager who perceives the world in a similiar manner a person with dementia would.
+The program itself is a 3D, first-person, point-and-click game. The user finds himself inside the body of a teenager who perceives the world in a similiar manner a person with dementia would.
 The focus is on replicating common physiological and psychological effects of dementia.
 These phenomena serve the purpose to demonstrate the difficulties people with dementia experience in their everyday lives in order to raise awareness for dementia and help teenagers understand people who have this disease.
 
