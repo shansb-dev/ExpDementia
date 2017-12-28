@@ -18,7 +18,9 @@ This project is part of the Aalborg University's PBL approach in the study progr
 - Supervisor: Anders Kalsgaard Møller
 
 #### Links
-
-- [_The 5 A`s_ early webgl test](https://shansb-dev.github.io/expDementia/Demo/index.html)
-- User Study: [ENG](https://goo.gl/forms/adq7V6x28cxmsgsS2), [DAN](https://goo.gl/forms/jm0hQMKm0c00hoEs1)
-- Feedback: [ENG](https://goo.gl/forms/65tnZauV9ZROQv8D3)<!---, [DAN](https://goo.gl/forms/65tnZauV9ZROQv8D3) -->
+- [_The 5 A`s_ WebGL](/expDementia/The5As_WebGL/index.html)
+- [_The 5 A`s_ WIN Version Download](https://drive.google.com/drive/folders/131_F9IWGOj7II5IWYfV9494zEUTEClTo)
+- [_The 5 A`s_ MAC Version Download](https://drive.google.com/open?id=1SXDMoUEcc0AvmbvR_ykEvKbpaTR8-t4D)
+- [_The 5 A`s_ early WebGL test](https://shansb-dev.github.io/expDementia/Demo/index.html)
+<!-- - User Study: [ENG](https://goo.gl/forms/adq7V6x28cxmsgsS2), [DAN](https://goo.gl/forms/jm0hQMKm0c00hoEs1) -->
+- [Feedback](https://goo.gl/forms/65tnZauV9ZROQv8D3)<!---, [DAN](https://goo.gl/forms/65tnZauV9ZROQv8D3) -->
