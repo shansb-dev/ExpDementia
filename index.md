@@ -17,6 +17,11 @@ This project is part of the Aalborg University's PBL approach in the study progr
 
 - Supervisor: Anders Kalsgaard Møller
 
+#### Related papers
+- [Creating an interactive experience to teach teenagers about Dementia](/expDementia/assets/documents/The5As.pdf)
+- [Measuring physiological symptoms induced by disruption of routines within a multimedia experience](/expDementia/assets/documents/MMCP.pdf)
+- [AAU MedCon 2017 Poster](/expDementia/assets/documents/The5As_medconPoster.pdf)
+
 #### Links
 - [The 5 A`s - WebGL](/expDementia/The5As_WebGL/index.html)
 - [The 5 A`s - WIN Version](https://drive.google.com/drive/folders/131_F9IWGOj7II5IWYfV9494zEUTEClTo)
